@@ -13,9 +13,9 @@
 ![](https://user-images.githubusercontent.com/19702085/119555230-3f17f200-bdbb-11eb-86d6-71cbd595e149.png)
 
 
-##Application Setup
+## Application Setup
 
-####Run the following commands.
+#### Run the following commands.
 
 ###### Clone from repo
 `$ git clone https://github.com/smartnav/crypto-todo`
@@ -26,7 +26,7 @@
 ###### Install npm dependencies
 `$ npm install`
 
-##Database Setup
+## Database Setup
 - postgreSQL 11 should be installed to setup the this application.
 - sequelize-cli should be installed for migrations 
 `<link>` : <https://sequelize.org/master/manual/migrations.html>
@@ -80,7 +80,7 @@ Import this link to your postman and Run.
 #### Direct Link
 http://localhost:8000/service/price?fsyms=BTC,LINK&tsyms=USD,ETH
 
-###Note
-######I tried myself best within this timeframe but we can make it better if I get  more time.
+### Note
+###### I tried myself best within this timeframe but we can make it better if I get  more time.
 
 ###End
